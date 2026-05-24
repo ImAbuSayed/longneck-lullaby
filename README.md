@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/longneck-lullaby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Longneck Lullaby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/longneck-lullaby/) |
+| **Get License** | [Get License For Longneck Lullaby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/longneck-lullaby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d051da84d88b61b0ae7748214c97cc150e38c34a328bea709e9e07c0fc27dd8e` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

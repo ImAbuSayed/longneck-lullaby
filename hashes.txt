@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Longneck Lullaby
+
+This log tracks the cryptographic history and versioning for the song **Longneck Lullaby** (longneck-lullaby).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-24T06:37:24.195582 | `v1` | `d051da84d88b61b0ae7748214c97cc150e38c34a328bea709e9e07c0fc27dd8e` | `55dece105e23cec52218436d09fb46760ad6147b1ee569489894cd5178fe9925` | `2026-05-24_longneck-lullaby-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
