@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/longneck-lullaby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Longneck Lullaby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/longneck-lullaby/) |
+| **Get License** | [Obtain a Music License for Longneck Lullaby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/longneck-lullaby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight hour is closing in, just you and me
+> Got a cold longneck and a perfect memory
+> I want to pull you close and let the world fade out
+> You are the only thing my mind is thinking about
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
